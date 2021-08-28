@@ -39,7 +39,7 @@
   </a>
 </p>                                                                                       
 
-### 👨‍💻 Skills - Technical skills & programming languages
+### 👨‍💻 Technical skills & programming languages
                                                                                           
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
