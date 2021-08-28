@@ -10,8 +10,6 @@ https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47c6gq3c3jpx
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47kvy6c05n5vhx292cibtdalk50jyjvyci51t1xucf&rid=giphy.gif&ct=g" width="150" height=100">
 </div>
 
-<img src="https://media.giphy.com/media/xULW8m9EJTIp2YktyM/giphy.gif?cid=ecf05e47ezaw0zc5er3zrzyxavf1fdwjbyou0pnkreta6uhf&rid=giphy.gif&ct=g" width="150" height="100">
-
 ## I'm a Developer, constant learner and tech enthusiast!!
 
 - 👀 I’m interested in all things tech related and I have a deep passion for code
