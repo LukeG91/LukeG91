@@ -8,12 +8,12 @@
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47kvy6c05n5vhx292cibtdalk50jyjvyci51t1xucf&rid=giphy.gif&ct=g" width="150" height=100">
 </div>
 
-## I'm a Developer, constant learner and tech enthusiast!!
+## I'm a Developer, constant learner and tech enthusiast!
 
 - 👀 I’m interested in all things tech related and I have a deep passion for code
-- 🌱 I’m currently learning diving deep into mastering the MERN
+- 🌱 I’m currently improving my knowledge by doing a deep dive into mastering the MERN stack by building full stack e-commerce websites
 - 📫 I'm sharpening my skills to get closer to my goal of specializing in full stack e-commerce website developmment using the MERN stack
-- 🔭 My daily goal is always to improve myself to be 1% better than I was the day before
+- 🔭 My daily goal is always to improve myself by 1% each day 
 - 🥅 2021 Goals: Land a full time developer role specializing in full stack e-commerce website developmment using the MERN stack
 - 💞️ Fun Fact: I enjoy fishing, hiking and being outdoors in my spare time when I'm not coding 😁
 
