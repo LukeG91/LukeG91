@@ -4,6 +4,9 @@
 <img src="https://media.giphy.com/media/xULW8m9EJTIp2YktyM/giphy.gif?cid=ecf05e47ezaw0zc5er3zrzyxavf1fdwjbyou0pnkreta6uhf&rid=giphy.gif&ct=g" width="150" height="100">
 <img src="https://media.giphy.com/media/hX1Am5h59VuYC8yU9V/giphy.gif?cid=ecf05e473ocmd95ftomjjkt53ms7kkvx27mbreyp8j2eknax&rid=giphy.gif&ct=g" width="150" height="100">
 <img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
+<img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
+<img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
+<img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
 </div>
 
 ## I'm a Developer, constant learner and tech enthusiast!!
