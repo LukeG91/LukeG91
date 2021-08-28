@@ -47,8 +47,11 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>                                                                                     
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>                                               <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a> 
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>      
+                                                                                          
+      
+    - test                                                                                      
 </p>
                                                                                           
 ### 🧰 Frameworks and libraries
