@@ -53,9 +53,10 @@
 ### 🧰 Frameworks and libraries
                                                                                           
 <p>    
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/-ReactJs-black?logo=react"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/-ReactJs-black?logo=react"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>    
 </p>
                                                                                           
 <!--
