@@ -51,7 +51,15 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>      
                                                                                           
       
-    - test                                                                                      
+    - DNS
+    - Apache
+    - SSL                                                                                      
+    - Mocha
+    - Chai
+    - JWT (JSON web Tokens)     
+    - bcrypt
+    - REST API's
+     
 </p>
                                                                                           
 ### 🧰 Frameworks and libraries
