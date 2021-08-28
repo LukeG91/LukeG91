@@ -62,19 +62,24 @@
      
 </p>
                                                                                           
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks, libraries & run time environments
                                                                                           
 <p>    
     <a href="#"><img alt="React" src="https://img.shields.io/badge/-ReactJs-black?logo=react"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>  
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>                     
-    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?logo=git&logoColor=white"></a>                      
-                                                                                          
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>
 </p>
                                                                                           
-🗄️ Databases and deployment platforms                                                                                       
+🗄️ Databases and deployment platforms     
+    
+<p>    
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="20"></a>  
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="20"></a>
+</p> 
                                                                                           
 <!--
 **LukeG91/LukeG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
