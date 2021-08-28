@@ -23,8 +23,8 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/lukeglendining?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/LukeG91">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LukeG91?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://lukeg91.github.io/Luke_Glendining_resume/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2lukeg91.github.io/Luke_Glendining_resume%2F"/></a> 
+  <a href="https://neeraj2002.github.io/">
+    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
 </p>
 
 <!--
