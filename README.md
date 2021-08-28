@@ -57,6 +57,7 @@
     - DNS
     - SSL                                                                                      
     - Chai
+    - Context API                                                                                     
     - JWT (JSON web Tokens)     
     - bcrypt
     - REST API's
