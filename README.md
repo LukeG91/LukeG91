@@ -39,7 +39,7 @@
   </a>
 </p>                                                                                       
 
-### 👨‍💻 Skills - programming languages
+### 👨‍💻 Skills - Technical skills & programming languages
                                                                                           
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -48,6 +48,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=python&logoColor=white"></a>                                                                                     
 </p>
                                                                                           
 ### 🧰 Frameworks and libraries
@@ -57,7 +58,8 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>  
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                               https://img.shields.io/badge/Express.js-404D59?style=for-the-badge             
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>                     
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                                           
                                                                                           
 </p>
                                                                                           
