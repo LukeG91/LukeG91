@@ -50,16 +50,18 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
     <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>                                                                                      
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>                           
+</p>
+                                                                                          
+<p>
     - DNS
     - SSL                                                                                      
     - Chai
     - JWT (JSON web Tokens)     
     - bcrypt
     - REST API's
-     
 </p>
-                                                                                          
+    
 ### 🧰 Frameworks, libraries & run time environments
                                                                                           
 <p>    
