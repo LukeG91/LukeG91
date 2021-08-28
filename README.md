@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Luke Glendining's profile! 
+Welcome to Luke Glendining's profile! <img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="50">
 <!--   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 </h3>
 
