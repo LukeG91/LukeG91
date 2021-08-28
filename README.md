@@ -59,7 +59,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>  
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>                     
-    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                                           
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>                     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?logo=git&logoColor=white"></a>                      
                                                                                           
 </p>
                                                                                           
