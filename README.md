@@ -2,7 +2,8 @@
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Luke Glendining's profile! <img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="100" height=100">
+<img src="https://media.giphy.com/media/xULW8m9EJTIp2YktyM/giphy.gif?cid=ecf05e47ezaw0zc5er3zrzyxavf1fdwjbyou0pnkreta6uhf&rid=giphy.gif&ct=g" width="150" height="100">
+Welcome to Luke Glendining's profile! <img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
 <!--   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 </h3>
 
