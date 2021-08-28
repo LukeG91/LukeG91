@@ -15,6 +15,7 @@
 - 📫 I'm sharpening my skills to get closer to my goal of specializing in Full Stack E-commerce website developmment using the MERN stack
 - 🔭 My daily goal is always to improve myself by 1% each day 
 - 🤔 I am a critical and analytical thinker
+- :muscle: Fast learner and I enjoy taking on new challenges and learning new technologies, I thrive on getting involved and adding value
 - :smiley: I am a problem solver and I enjoy breaking down a problem and working through it step by step in order to get to the solution
 - 🥅 2021 Goals: Land a full time developer role specializing in Full Stack E-commerce website developmment using the MERN stack
 - 💞️ Fun Fact: I enjoy fishing, hiking and being outdoors in my spare time when I'm not coding 😁
