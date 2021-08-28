@@ -4,7 +4,6 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47oiub26oln4fgzuifc030a1w2a3l8yo8w1d6bps2a&rid=giphy.gif&ct=g" width="150" height=100">
 <img src="https://media.giphy.com/media/hX1Am5h59VuYC8yU9V/giphy.gif?cid=ecf05e473ocmd95ftomjjkt53ms7kkvx27mbreyp8j2eknax&rid=giphy.gif&ct=g" width="150" height="100">
 <img src="https://media.giphy.com/media/xULW8m9EJTIp2YktyM/giphy.gif?cid=ecf05e47ezaw0zc5er3zrzyxavf1fdwjbyou0pnkreta6uhf&rid=giphy.gif&ct=g" width="150" height="100">
-<img src="https://media.giphy.com/media/l3lZ0OipbXlond2pF0/giphy.gif?cid=ecf05e47fb36sacjefy3g7kqy13fmxzx0qj1m7gorgofv5si&rid=giphy.gif&ct=g" width="150" height=100">
 <img src="https://media.giphy.com/media/9D7Jr7o9TjKta/giphy.gif?cid=ecf05e47025dzxojvuwgim8e3ge4u160u2b55yc3lh1zml3p&rid=giphy.gif&ct=g" width="150" height=100">
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47kvy6c05n5vhx292cibtdalk50jyjvyci51t1xucf&rid=giphy.gif&ct=g" width="150" height=100">
 </div>
