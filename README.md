@@ -26,7 +26,7 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/lukeglendining?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/LukeG91">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LukeG91?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://neeraj2002.github.io/">
+  <a href="https://www.thecodingwizard.blog/">
     <img alt="My Blog" title="My Blog" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fwww.thecodingwizard.blog%2F"/></a> 
 </p>
                                                                                                                                
