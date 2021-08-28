@@ -20,6 +20,7 @@
 - 💞️ Fun Fact: I enjoy fishing, hiking and being outdoors in my spare time when I'm not coding 😁
 
 <!-- Badges template - https://github.com/badges/shields -->
+
 <p align="center">
 <a href="https://twitter.com/lukeglendining">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/lukeglendining?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
@@ -28,6 +29,18 @@
   <a href="https://lukeg91.github.io/Luke_Glendining_resume/">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Flukeg91.github.io%2FLuke_Glendining_resume%2F"/></a> 
 </p>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/LukeG91/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LukeG91's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeG91&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+                                                                                          
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+                                                                                      
 
 <!--
 **LukeG91/LukeG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
