@@ -53,14 +53,12 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="20"></a>                           
 </p>
                                                                                           
-<p>
     - DNS
     - SSL                                                                                      
     - Chai
     - JWT (JSON web Tokens)     
     - bcrypt
     - REST API's
-</p>
     
 ### 🧰 Frameworks, libraries & run time environments
                                                                                           
