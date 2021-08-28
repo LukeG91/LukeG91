@@ -42,7 +42,6 @@
 ### 👨‍💻 Skills - programming languages
                                                                                           
 <p>
-    
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -53,10 +52,11 @@
                                                                                           
 ### 🧰 Frameworks and libraries
                                                                                           
-    https://img.shields.io/badge/-ReactJs-black?logo=react
+<p>    
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/-ReactJs-black?logo=react"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
+</p>
                                                                                           
 <!--
 **LukeG91/LukeG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
