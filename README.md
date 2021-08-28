@@ -37,9 +37,7 @@
   <a href="https://github.com/LukeG91/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LukeG91's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeG91&theme=monokai-metallian&hide_border=true"/>
   </a>
-</p>
-                                                                                          
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p>                                                                                       
                                                                                       
 
 <!--
